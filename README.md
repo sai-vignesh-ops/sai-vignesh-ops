@@ -42,16 +42,7 @@
 
 ### 📊 GitHub Stats & Graphs
 
-<table border="0">
-<tr>
-<td width="48%" align="center">
-<img src="./megha-stats.svg?v=2" alt="GitHub Stats" width="100%"/>
-</td>
-<td width="48%" align="center">
-<img src="./megha-langs.svg?v=2" alt="Top Languages" width="100%"/>
-</td>
-</tr>
-</table>
+<img src="./megha-stats.svg?v=2" alt="GitHub Stats" width="47%" align="top"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="./megha-langs.svg?v=2" alt="Top Languages" width="47%" align="top"/>
 
 <br/>
 
